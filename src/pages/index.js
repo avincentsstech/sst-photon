@@ -11,7 +11,7 @@ import client3 from '../assets/images/40.jpg'
 import client4 from '../assets/images/46.jpg'
 import client5 from '../assets/images/60.jpg'
 
-class Homepage extends React.Component {
+class Homepage extends React.Component { 
     render() {
         const siteTitle = this.props.data.site.siteMetadata.title;
 
